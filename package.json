@@ -1,0 +1,12 @@
+{
+	"name": "TrackerServer",
+	"description": "",
+	"author": {
+		"name": "Titiwut Muktikanantakun",
+		"email": "me@iamnut.com"
+	},
+	"dependencies": {
+		"foreach": ">= 2.0.5",
+		"mysql": ">= 2.8.0"
+	}
+}
